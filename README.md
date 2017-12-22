@@ -1,13 +1,16 @@
 # ReadMe For Bundlescrapper
 
 ## TODO:
-- we're capturing "Support Charity" as a Title
+- [ ] Add whatever you desire
 
 
 
 
 ## Set up dev environment
 	virtualenv -p python3 venv
+	
 
 ## Activate it 
 	source venv/bin/activate
+	pip install -r requirements.txt
+	python scrapper.py
